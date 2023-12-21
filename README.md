@@ -39,11 +39,26 @@ Vectors
 - Null space computation
 - Check orthogonal points in defined inner product space
 
-Function Matrices
+Function Matrices (Polynomials)
+- Check linear independence
+- Check if the matrix spans P2
+- Null space computation
 - Check orthogonal points in defined inner product space
 
-Instructions:
+Function Matrices (Functions)
+- Check orthogonal points in defined inner product space
 
-Credits:
+Getting Started:
+1. Clone the repository to your local machine.
+2. Open the project in your preferred Java development environment.
+3. Run the Application class to start MAX.
 
-MAX was developed by Fanni Kertesz for the Data Structures final project at Bellarmine University.
+Usage:
+1. Upon launching MAX, you will be prompted to choose between matrices, vectors, or function matrices.
+2. Follow the on-screen instructions to input the necessary data for the chosen object.
+3. Perform various operations by entering commands such as row reduce, transpose, etc. - type "list" for list of commands.
+4. Type "new" to work with new object.
+5. Type "stop" at any point to exit the program.
+
+Author:
+Fanni Kertesz
